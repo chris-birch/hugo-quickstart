@@ -9,3 +9,5 @@ title = 'This is the first post'
 This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
+
+This is another line of text
